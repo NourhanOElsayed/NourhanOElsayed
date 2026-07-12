@@ -1,4 +1,7 @@
 ## Nourhan Elsayed
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Cross-Platform+Application+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+</p>
 
 I am an undergraduate student at the Faculty of Computers and Informatics specializing in cross-platform application development. My primary focus is building responsive, user-centric interfaces using Flutter and Dart. Alongside UI/UX development.
 
@@ -21,11 +24,18 @@ I am an undergraduate student at the Faculty of Computers and Informatics specia
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NourhanOElsayed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourhanOElsayed&layout=compact&theme=tokyonight&langs_count=5&hide_border=true" alt="Top Languages" />
+  <img width="47%" src="https://github-stats-extended.vercel.app/api?username=NourhanOElsayed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NourhanOElsayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NourhanOElsayed&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=3feee6&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
 
 <p align="center">
   <picture>
@@ -34,3 +44,4 @@ I am an undergraduate student at the Faculty of Computers and Informatics specia
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/NourhanOElsayed/NourhanOElsayed/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
