@@ -25,13 +25,7 @@ I am an undergraduate student at the Faculty of Computers and Informatics specia
 
 <p align="center">
   <img width="47%" src="https://github-stats-extended.vercel.app/api?username=NourhanOElsayed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NourhanOElsayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NourhanOElsayed&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=3feee6&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="50%" src="https://streak-stats.demolab.com/?user=NourhanOElsayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
